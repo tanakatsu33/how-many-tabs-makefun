@@ -1,0 +1,5 @@
+[![make.fun · u-danu-how-many-tabs-do-you-have-open-d86e783d](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![rank](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/tanakatsu33/how-many-tabs-makefun/rank.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![reward](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/tanakatsu33/how-many-tabs-makefun/reward.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+
+This is an entry for make.fun's "How Many Tabs Do You Have Open?" bounty ($5 in USDC). `main.ts` writes the single-number entry to `/output/entry.txt`.
